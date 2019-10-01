@@ -6,3 +6,6 @@
 - [ ] I've forked the repository.
 - [ ] I've created a branch and made my changes in it.
 - [ ] I understand opening a PULL REQUEST doesn't mean it will be merged for sure.
+
+## Fixes issue
+Fixes #<!--Issue Number-->
