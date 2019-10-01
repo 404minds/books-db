@@ -1,10 +1,8 @@
 {
   "title": "Dune",
   "storyline": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the \"spice\" melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for...",
-  "authors": ["Frank Herbert"],
-  "genres": [
-    "science fiction"
-  ],
+  "authors": [ "Frank Herbert" ],
+  "genres": [ "science fiction" ],
   "characters": [
     "Paul Atredies", 
     "Duke Leto Atredies", 
