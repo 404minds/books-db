@@ -1,0 +1,15 @@
+{
+  "title": "Neuromancer",
+  "storyline": "Neuromancer is a 1984 science fiction novel by American-Canadian writer William Gibson. It is one of the best-known works in the cyberpunk genre and the first novel to win the Nebula Award, the Philip K. Dick Award, and the Hugo Award. It was Gibson's debut novel and the beginning of the Sprawl trilogy. Set in the future, the novel follows Henry Case, a washed-up computer hacker who is hired for one last job, which brings him up against a powerful artificial intelligence.",
+  "authors": ["William Gibson"],
+  "genres": [
+    "science fiction",
+    "cyberpunk"
+  ],
+  "characters": ["Henry Dorsett Case"],
+  "pages": 271,
+  "ISBN": "0-441-56956-0",
+  "language": "english",
+  "publisher": "Ace",
+  "publication_date": "1984-07-01"
+}
