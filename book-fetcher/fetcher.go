@@ -17,7 +17,13 @@ var cli = http.Client{
 }
 
 type Book struct {
-	title string
+	Title       string   `json:"title"`
+	Authors     []string `json:"authors"`
+	Publisher   string   `json:"publisher"`
+	PublishedOn string   `json:"publishedDate"`
+	Description string   `json:"description"`
+	Pages       int      `json:"pageCount"`
+	Categories  []string `json:"categories"`
 }
 
 type GoogleBook struct {
@@ -82,11 +88,25 @@ func main() {
 			panic(err)
 		}
 
-		err = json.NewEncoder(fil).Encode(&book.Items[0].VolumeInfo)
+		final := book.Items[0].VolumeInfo.toBook()
+
+		err = json.NewEncoder(fil).Encode(&final)
 
 		if err != nil {
 			panic(err)
 		}
 	}
 
+}
+
+func (vi VolumeInfo) toBook() Book {
+	return Book{
+		Title:       vi.Title,
+		Authors:     vi.Authors,
+		Publisher:   vi.Publisher,
+		PublishedOn: vi.PublishedOn,
+		Description: vi.Description,
+		Pages:       vi.Pages,
+		Categories:  vi.Categories,
+	}
 }
