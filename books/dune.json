@@ -1,0 +1,23 @@
+{
+  "title": "Dune",
+  "storyline": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the \"spice\" melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for...",
+  "authors": [ "Frank Herbert" ],
+  "genres": [ "science fiction" ],
+  "characters": [
+    "Paul Atredies", 
+    "Duke Leto Atredies", 
+    "Lady Jessica", 
+    "Alia Atredies", 
+    "Thufir Hawat", 
+    "Gurney Halleck", 
+    "Duncan Idaho", 
+    "Wellington Yueh", 
+    "Baron Vladimir Harkonnen", 
+    "Piter De Vries"
+  ],
+  "pages": 412,
+  "ISBN": "0425266540",
+  "language": "english",
+  "publisher": "Clinton Books",
+  "publication_date": "1965-08-01"
+}
