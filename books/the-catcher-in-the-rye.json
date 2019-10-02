@@ -1,0 +1,15 @@
+{
+  "title": "The Catcher in the Rye",
+  "storyline": "The novel details two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school. Confused and disillusioned, Holden searches for truth and rails against the “phoniness” of the adult world. He ends up exhausted and emotionally unstable. The events are related after the fact.",
+  "authors": ["J. D. Salinger"],
+  "genres": [
+    "realistic fiction",
+    "coming-of-age fiction"
+  ],
+  "characters": ["Holden Caufield", "Stradlater", "Phoebe Caufield", "Sally Hayes", "Jane Gallager", "Allie", "Babe Gladwaller", "Mr. Antolini"],
+  "pages": 277,
+  "ISBN": "0-316-76953-3",
+  "language": "english",
+  "publisher": "Little, Brown and Company",
+  "publication_date": "1951-07-16"
+}
