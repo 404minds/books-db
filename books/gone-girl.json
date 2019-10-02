@@ -1,0 +1,17 @@
+{
+  "title": "Gone Girl",
+  "storyline": "Gone Girl follows the story of a married couple, Nick Dunne and Amy Elliott Dunne, from the time they meet and up until Amy goes missing under suspicious circumstances and Nick eventually becomes the prime suspect in her dissaperance.",
+  "authors": ["Gillian Flynn"],
+  "genres": [
+    "thriller"
+    "suspense"
+    "mystery"
+    "crime"
+  ],
+  "characters": ["Nick Dunne", "Amy Elliott Dunne", "Jim Gilpin", "Rhonda Boney", "Desi Collings"],
+  "pages": 432,
+  "ISBN": "978-0307588364",
+  "language": "english",
+  "publisher": "Crown Publishing Group",
+  "publication_date": "2012-06-05"
+}
