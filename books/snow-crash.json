@@ -1,0 +1,19 @@
+{
+  "title": "Snow Crash",
+  "storyline": "Snow Crash is a science fiction novel by American writer Neal Stephenson, published in 1992. Like many of Stephenson's other novels, it covers history, linguistics, anthropology, archaeology, religion, computer science, politics, cryptography, memetics and philosophy.",
+  "authors": ["Neal Stephenson"],
+  "genres": [
+    "Science fiction",
+    "Cyberpunk",
+    "Postcyberpunk"
+  ],
+  "characters": [
+    "Asherah",
+    "Inki"
+  ],
+  "pages": 480,
+  "ISBN": "0-553-08853-X",
+  "language": "english",
+  "publisher": "Bantam Books",
+  "publication_date": "1992-06-01"
+}
