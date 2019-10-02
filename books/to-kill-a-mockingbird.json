@@ -1,0 +1,15 @@
+{
+  "title": "To Kill a Mockingbird",
+  "storyline": "The story is told by the little six-year-old girl Jean Louise Finch nicknamed Scout. She is a rebellious girl who has tomboy tendencies. The storyline is based in Maycomb, a small town in Alabama in the 1930s where Scout lives with her elder brother Jem, and her father, Atticus, who is widowed.",
+  "authors": ["Harper Lee"],
+  "genres": [
+    "southern gothic",
+    "bildungsroman"
+  ],
+  "characters": ["Scout Finch", "Atticus Finch", "Jem Finch", "Arthur \"Boo\" Radley", "Bob Ewell", "Charles Baker \"Dill\" Harris", "Miss Maudie Atkinson", "Calpurnia", "Aunt Alexandra", "Mayella Ewell", "Tom Robinson", "Link Deas", "Mrs. Henry Lafayette Dubose", "Nathan Radley", "Heck Tate", "Mr. Underwood", "Mr. Dolphus Raymond", "Mr. Walter Cunningham", "Walter Cunningham"],
+  "pages": 281,
+  "ISBN": "0965773604",
+  "language": "english",
+  "publisher": "J. B. Lippincott & Co",
+  "publication_date": "1960-07-11"
+}
