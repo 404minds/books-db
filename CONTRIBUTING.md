@@ -6,6 +6,8 @@ This repository is built for the purpose of creating a public collection of book
 
 That said, suggested ways to contribute include:
 
+* Select an open issue that you would like to work on and comment `dibs` on it if you are working on it.
+* If you don't find an open issue, you can create a new issue to add any book that has not already been added.
 * Fork the project in GitHub
 * Clone your forked repo locally
 * Add a file named `<book-name.json>` to the `books` directory. Make sure to include all details mentioned in the table below (a template has also been provided for reference).
