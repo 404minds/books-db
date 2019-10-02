@@ -1,0 +1,14 @@
+{
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "storyline": "Seconds before Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker’s Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.",
+  "authors": ["Douglas Adams"],
+  "genres": [
+    "science fiction"
+  ],
+  "characters": ["Arthur Dent", "Ford Prefect", "Zaphod Beeblebrox", "Trillian (formerly Tricia McMillan)", "Marvin", "Veet Voojagig"],
+  "pages": 224,
+  "ISBN": "0345391802",
+  "language": "english",
+  "publisher": "Del Rey",
+  "publication_date": "1995-09-27"
+}
