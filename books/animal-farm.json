@@ -1,0 +1,27 @@
+{
+  "title": "Animal Farm",
+  "storyline": "The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. Ultimately, however, the rebellion is betrayed and the farm ends up in a state as bad as it was before, under the dictatorship of a pig named Napoleon.",
+  "authors": ["George Orwell"],
+  "genres": [
+    "science fiction",
+    "social science fiction",
+    "dystopian fiction",
+    "political fiction"
+  ],
+  "characters": [
+    "Old Major",
+    "Napoleon",
+    "Snowball",
+    "Squealer",
+    "Boxer",
+    "Minimus",
+    "Clover",
+    "Mollie",
+    "Mr. Jones"
+  ],
+  "pages": 112,
+  "ISBN": "9780451526342",
+  "language": "english",
+  "publisher": "Secker & Warburg",
+  "publication_date": "1945-08-17"
+}
