@@ -1,0 +1,18 @@
+{
+    "title": "Charlie and the Chocolate Factory",
+    "storyline": "11-year-old Charlie Bucket lives in poverty in a small house with his parents and four grandparents. One day, he buys a chocolate, Wonka Bar, and is invited to visit the chocolatier Willy Wonka.",
+    "authors": ["Roald Dahl"],
+    "genres": ["Children's fantasy novel"],
+    "characters": [
+        "Willy Wonka",
+        "Charlie Bucket",
+        "Grandpa Joe",
+        "Augustus Gloop",
+        "Violet Beauregarde"
+    ],
+    "pages": 192,
+    "ISBN": "9780142403884",
+    "language": "english",
+    "publisher": "Puffin Books",
+    "publication_date": "2005-06-02"
+  }
