@@ -1,0 +1,18 @@
+{
+    "title": "The Da Vinci Code",
+    "storyline": "Symbologist Robert Langdon travels from Paris to London to discover the truth behind a mysterious and bizarre murder. Later, he learns about a religious mystery protected by a secret society.",
+    "authors": ["Dan Brown"],
+    "genres": [
+      "quest",
+      "adventure",
+      "mystery",
+      "thriller",
+      "history"
+    ],
+    "characters": ["Robert Langdon","Sophie Neveu","Silus","Sir Leigh Teabing"],
+    "pages": 489,
+    "ISBN": "9781435288232",
+    "language": "english",
+    "publisher": "Doubleday (US) Transworld & Bantam Books (UK)",
+    "publication_date": "2003-03-18"
+}
