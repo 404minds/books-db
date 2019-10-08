@@ -1,5 +1,3 @@
-> Please check all tasks that you've completed by placing an `x` within the square braces below.
-
 ## Proposed Changes
 - [x] I've read the [CODE OF CONDUCT](https://github.com/my-first-pr/hacktoberfest-2018/blob/master/CODE_OF_CONDUCT.md) and abide to it.
 - [x] I've read the [CONTRIBUTING.md](https://github.com/my-first-pr/hacktoberfest-2018/blob/master/CONTRIBUTING.md)
