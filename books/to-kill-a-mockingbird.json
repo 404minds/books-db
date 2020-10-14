@@ -1,15 +1,15 @@
 {
-    "title": "To Kill a Mockingbird",
-    "storyline": "The story, told by the six-year-old Jean Louise Finch, takes place during three years (1933–35) of the Great Depression in the fictional "tired old town" of Maycomb, Alabama, the seat of Maycomb County. Jean Louise Finch, nicknamed Scout, lives with her older brother Jeremy, nicknamed Jem, and their widowed father Atticus, a middle-aged lawyer. Jem and Scout befriend a boy named Dill, who visits Maycomb to stay with his aunt each summer. The three children are terrified, yet fascinated by their neighbor, the reclusive Arthur "Boo" Radley. The adults of Maycomb are hesitant to talk about Boo, and few of them have seen him for many years. The children feed one another's imagination with rumors about his appearance and reasons for remaining hidden, and they fantasize about how to get him out of his house. After two summers of friendship with Dill, Scout and Jem find that someone is leaving them small gifts in a tree outside the Radley place. Several times the mysterious Boo makes gestures of affection to the children, but, to their disappointment, he never appears in person.",
-    "authors": ["Harper Lee"],
-    "genres": [
-      "Southern Gothic",
-      "Bildungsroman"
-    ],
-    "characters": ["Jean Louise Finch"],
-    "pages": 281,
-    "ISBN": "9781428113701",
-    "language": "english",
-    "publisher": "J. B. Lippincott & Co.",
-    "publication_date": "1960-06-11"
- }
+  "title": "To Kill a Mockingbird",
+  "storyline": "The story is told by the little six-year-old girl Jean Louise Finch nicknamed Scout. She is a rebellious girl who has tomboy tendencies. The storyline is based in Maycomb, a small town in Alabama in the 1930s where Scout lives with her elder brother Jem, and her father, Atticus, who is widowed.",
+  "authors": ["Harper Lee"],
+  "genres": [
+    "southern gothic",
+    "bildungsroman"
+  ],
+  "characters": ["Scout Finch", "Atticus Finch", "Jem Finch", "Arthur \"Boo\" Radley", "Bob Ewell", "Charles Baker \"Dill\" Harris", "Miss Maudie Atkinson", "Calpurnia", "Aunt Alexandra", "Mayella Ewell", "Tom Robinson", "Link Deas", "Mrs. Henry Lafayette Dubose", "Nathan Radley", "Heck Tate", "Mr. Underwood", "Mr. Dolphus Raymond", "Mr. Walter Cunningham", "Walter Cunningham"],
+  "pages": 281,
+  "ISBN": "0965773604",
+  "language": "english",
+  "publisher": "J. B. Lippincott & Co",
+  "publication_date": "1960-07-11"
+}
