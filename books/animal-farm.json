@@ -1,0 +1,16 @@
+{
+  "title": "Animal Farm",
+  "storyline":"The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. Ultimately, however, the rebellion is betrayed and the farm ends up in a state as bad as it was before, under the dictatorship of a pig named Napoleon. "
+  "authors": ["George Orwell"],
+  "genres": [
+    "fable",
+    "political satire",
+    "satire"
+  ],
+  "characters": ["Napoleon", "Snowball", "Boxer"],
+  "pages": 112,
+  "ISBN": "9789630793292",
+  "language": "english",
+  "publisher": "Harcourt, Brace and Company",
+  "publication_date": "1945-09-17"
+}
