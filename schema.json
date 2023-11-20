@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "properties": {
+    "title": { "type": "string" },
+    "storyline": { "type": "string" },
+    "authors": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "genres": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "characters": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "pages": { "type": "integer" },
+    "ISBN": { "type": "string" },
+    "language": { "type": "string" },
+    "publisher": { "type": "string" },
+    "publication_date": { "type": "string", "format": "date" }
+  },
+  "required": [
+    "title",
+    "storyline",
+    "authors",
+    "genres",
+    "pages",
+    "ISBN",
+    "language"
+  ],
+  "additionalProperties": false
+}
