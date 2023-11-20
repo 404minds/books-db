@@ -6,6 +6,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - name: Set the value
+    id: step_one
+    run: |
+      echo "action_state=yellow" >> "$GITHUB_ENV"
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
